@@ -11,6 +11,7 @@ print(df)
 sns.countplot(x='Twitteraccount', data=df, hue='Twitteraccount')
 
 
+
 plt.title("Candidates Vs Twitteraccount", fontsize=18)
 plt.title("Candidates Vs Tweetprefer", fontsize=18)
 plt.title("Candidates Vs Tweetperiod", fontsize=18)
