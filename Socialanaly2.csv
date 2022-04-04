@@ -1,0 +1,12 @@
+Candidates,Fbaccount,Fbstories,Fbfeeds,Instaaccount,Instastories,Instafeeds,Twitteraccount,Twitterusage,Tweetprefer,Tweetperiod
+1,Yes,Daily,Daily,Yes,Daily,Daily,Yes,Daily,Yes,Daily
+2,No,Never,Never,Yes,Daily,Daily,Yes,Daily,Yes,Daily
+3,Yes,Never,Rarely,Yes,Never,Never,Yes,Daily,Yes,Daily
+4,Yes,Never,Never,Yes,Daily,Daily,Yes,Daily,Yes,Daily
+5,Yes,Never,Never,Yes,Rarely,Daily,No,Never,No,Never
+6,Yes,Daily,Daily,Yes,Daily,Daily,No,Never,No,Never
+7,Yes,Daily,Weekly,Yes,Daily,Daily,Yes,Rarely,No,Rarely
+8,Yes,Weekly,Weekly,Yes,Daily,Daily,Yes,Monthly,No,Never
+9,Yes,Rarely,Never,Yes,Weekly,Daily,No,Never,No,Never
+10,Yes,Never,Never,Yes,Daily,Daily,Yes,Monthly,Yes,Monthly
+11,Yes,Daily,Daily,Yes,Daily,Daily,Yes,Weekly,No,Rarely
